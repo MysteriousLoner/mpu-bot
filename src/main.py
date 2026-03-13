@@ -14,7 +14,7 @@ from schedule_obj import ScheduleEntry
 CSV_PATH = Path(__file__).parent.parent / "resources" / "schedule_parsed.csv"
 JID_MAP_PATH = Path(__file__).parent.parent / "resources" / "jid_map.json"
 
-EVOLUTION_API_URL = "http://evolution-api:8081/message/sendText/0123226431"
+EVOLUTION_API_URL = "http://evolution-api:8080/message/sendText/0123226431"
 
 logging.basicConfig(
     level=logging.INFO,
