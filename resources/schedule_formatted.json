@@ -1,0 +1,228 @@
+{
+  "2026-02-09": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 1, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-02-10": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 1, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-02-11": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 1, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-02-12": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 1, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 1, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-02-13": [
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Friday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 1, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-02-14": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Saturday", "time": "10:00AM - 12:00PM", "venue": "UC-5-5", "week": 1, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"},
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "UC-5-5", "week": 1, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-02-23": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 2, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-02-24": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 2, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-02-25": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 2, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-02-26": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 2, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 2, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-02-27": [
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Friday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 2, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-02-28": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Saturday", "time": "10:00AM - 12:00PM", "venue": "UE-2-14A", "week": 2, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"},
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "UE-2-14A", "week": 2, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "ONLINE", "week": 2, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-03-02": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 3, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-03-03": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 3, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-03-04": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 3, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-03-05": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 3, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 3, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-03-06": [
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Friday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 3, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-03-07": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Saturday", "time": "10:00AM - 12:00PM", "venue": "UC-5-5", "week": 3, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"},
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "UC-5-6", "week": 3, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-03-09": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 4, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-03-10": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 4, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-03-11": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 4, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-03-12": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 4, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 4, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-03-13": [
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Friday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 4, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-03-14": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Saturday", "time": "10:00AM - 12:00PM", "venue": "UE-2-14A", "week": 4, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"},
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "UE-2-14A", "week": 4, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "ONLINE", "week": 4, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-03-16": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 5, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-03-17": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 5, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-03-18": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 5, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-03-19": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 5, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 5, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-03-20": [
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Friday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 5, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-03-21": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "UC-5-6", "week": 5, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-03-23": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 6, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-03-24": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 6, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-03-25": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 6, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-03-26": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 6, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 6, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-03-27": [
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Friday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 6, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-03-28": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Saturday", "time": "10:00AM - 12:00PM", "venue": "UE-2-14A", "week": 6, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"},
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "UE-2-14A", "week": 6, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "ONLINE", "week": 6, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-03-30": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 7, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-03-31": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 7, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-04-01": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 7, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-04-02": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 7, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 7, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-04-03": [
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Friday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 7, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-04-04": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Saturday", "time": "10:00AM - 12:00PM", "venue": "UC-5-5", "week": 7, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"},
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "UC-5-6", "week": 7, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-04-06": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 8, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-04-07": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 8, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-04-08": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 8, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-04-09": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 8, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 8, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"},
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 8, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-04-11": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Saturday", "time": "10:00AM - 12:00PM", "venue": "UE-2-14A", "week": 8, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"},
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "UE-2-14A", "week": 8, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "ONLINE", "week": 8, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-04-13": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 9, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-04-14": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 9, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-04-15": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 9, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-04-16": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 9, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 9, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"},
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 9, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-04-18": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Saturday", "time": "10:00AM - 12:00PM", "venue": "UC-5-5", "week": 9, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"},
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "UC-5-6", "week": 9, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-04-20": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 10, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-04-21": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 10, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-04-22": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 10, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-04-23": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 10, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 10, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"},
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 10, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-04-25": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Saturday", "time": "10:00AM - 12:00PM", "venue": "UE-2-14A", "week": 10, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"},
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "UE-2-14A", "week": 10, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Saturday", "time": "2:00PM - 4:00PM", "venue": "ONLINE", "week": 10, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"}
+  ],
+  "2026-05-04": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 11, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-05-05": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 11, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-05-06": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 11, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-05-07": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 11, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 11, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"},
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 11, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ],
+  "2026-05-11": [
+    {"lecturer": "INTAN NURAFIQAH MOHD ALI HANAFIAH", "day": "Monday", "time": "8:00PM - 10:00PM", "venue": "UC-3-6", "week": 12, "subject_code": "MPU2152", "subject": "PENGHAYATAN ETIKA DAN PERADABAN"}
+  ],
+  "2026-05-12": [
+    {"lecturer": "MUHAMMAD AFIF ZAKWAN AZHAR", "day": "Tuesday", "time": "8:00PM - 10:00PM", "venue": "UC-5-5", "week": 12, "subject_code": "MPU2342", "subject": "KURSUS INTEGRITI DAN ANTI RASUAH"}
+  ],
+  "2026-05-13": [
+    {"lecturer": "NUR ANIS FARIHIN HASSNOR", "day": "Wednesday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 12, "subject_code": "MPU2322", "subject": "MORAL EDUCATION"}
+  ],
+  "2026-05-14": [
+    {"lecturer": "NORSAFIZAR MOHD NOR", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UC-3-3", "week": 12, "subject_code": "MPU2213", "subject": "BAHASA KEBANGSAAN A"},
+    {"lecturer": "NURUL IZZATI AHMAD SHARUL NIZAM", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "ONLINE", "week": 12, "subject_code": "MPU2223", "subject": "CREATIVITY AND INNOVATIVE THINKING SKILLS"},
+    {"lecturer": "NUR AIMAN NABILAH RAMLE", "day": "Thursday", "time": "8:00PM - 10:00PM", "venue": "UE-2-13", "week": 12, "subject_code": "MPU2442", "subject": "EDUCATION FOR SUSTAINABILITY DEVELOPMENT (SULAM)"}
+  ]
+}

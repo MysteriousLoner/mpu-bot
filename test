@@ -1,0 +1,1 @@
+python main.py. Run python main.py --date 2026-03-11 --csv resources/schedule_parsed.csv
