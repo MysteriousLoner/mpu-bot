@@ -13,7 +13,7 @@ services:
     image: evoapicloud/evolution-api:latest
     restart: always
     ports:
-      - "8081:8081"
+      - "8081:8080"
     env_file:
       - .env
     volumes:
